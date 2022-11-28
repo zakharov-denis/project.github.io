@@ -1,0 +1,14 @@
+name: "Cyclistic Case Study"
+navbar:
+  title: "Cyclistic Case Study"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Final Report"
+      href: Final_report.html
+    - text: "Data Cleaning Process"
+      href: Data_cleaning.html
+    - text: "Final Report CODE"
+      href: Analysis_w_code.html
+      
+output_dir: "docs"
